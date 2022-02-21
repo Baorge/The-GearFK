@@ -92,7 +92,6 @@ body {
   padding-top: 14px;
 }
 
-
 .search_input {
   /* background-color: aqua; */
   width: 400px;
@@ -101,7 +100,6 @@ body {
   font-size: 14px;
   padding-left: 20px;
   height: 30px;
-
 }
 
 .search_button {
@@ -641,7 +639,25 @@ i.like-icon_fill {
 }
 
 /* End Product */
-
+/* Cái này là mô tả sản phẩm  */
+.contianer_sp {
+  display: block;
+}
+.img_sp img {
+  float: left;
+  width: 635px;
+  height: 635px;
+  left: 0;
+  top: 0;
+}
+.infor_sp {
+  width: 635px;
+  height: 635px;
+  border: 1px solid black;
+  left: 0;
+  top: 0;
+}
+/* Hết */
 /* Dòng line */
 .inline {
   background: url(/./img/bglogo.webp) no-repeat #dedede;
